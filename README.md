@@ -1,4 +1,13 @@
-# Math Magicians
+## Math Magicians
+
+this application is for math lovers.
+
+![screenshot](images/screenshot.png)
+
+## Built with
+
+- React
+- linters
 
 ## Usage
 
