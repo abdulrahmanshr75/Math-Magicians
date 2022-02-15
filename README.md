@@ -1,5 +1,7 @@
 # Math Magicians
 
+![screenshot](images/screenshot.png)
+
 ## Usage
 
 start by cloning this repository by running:
