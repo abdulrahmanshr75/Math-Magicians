@@ -22,7 +22,7 @@ const Calculator = () => {
   return (
     <div className="main-container">
       <div className="result-container">
-        <span id="resultNumber">{Display() || 0}</span>
+        <span id="result">{Display() || 0}</span>
       </div>
       <div className="body-container">
         <button
