@@ -4,9 +4,16 @@
   box-sizing: border-box;
 }
 
+#root {
+  width: 100%;
+}
+
 body {
   margin: 0;
   font-family: "Nunito", sans-serif;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
 
 .main-container {
@@ -15,6 +22,8 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  align-self: flex-end;
+  margin-right: 65px;
 }
 
 .result-container {
@@ -72,4 +81,63 @@ body {
   padding: 25px;
   width: 265%;
   cursor: pointer;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.logo {
+  margin-left: 18px;
+  color: #fff;
+}
+
+.oneLink {
+  margin: 8px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.link-list {
+  margin-right: 18px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-homepage {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 65vh;
+}
+
+.text {
+  font-size: 20px;
+  text-align: center;
+}
+
+.whole {
+  display: flex;
+  width: 100%;
+  height: 65vh;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.calculator-text {
+  margin-left: 65px;
+}
+
+nav {
+  background-color: #858694;
 }
