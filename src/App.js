@@ -3,7 +3,7 @@ import "./App.css";
 import { Route } from "react-router-dom";
 import Calculator from "./pages/Calculator.js";
 import Navbar from "./pages/Navbar.js";
-import Qoute from "./pages/Qoute.js";
+import Qoute from "./pages/Quote.js";
 import Home from "./pages/Home.js";
 
 class App extends React.Component {
