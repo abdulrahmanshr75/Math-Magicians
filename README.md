@@ -4,6 +4,16 @@ this application is for math lovers.
 
 ![screenshot](images/screenshot.png)
 
+##Live Demo
+
+- Heroku
+
+https://math-magicians75.herokuapp.com/
+
+-netlify
+
+https://taupe-frangollo-a684bf.netlify.app/
+
 ## Built with
 
 - React
