@@ -10,7 +10,7 @@ this application is for math lovers.
 
 https://math-magicians75.herokuapp.com/
 
--netlify
+- Netlify
 
 https://taupe-frangollo-a684bf.netlify.app/
 
