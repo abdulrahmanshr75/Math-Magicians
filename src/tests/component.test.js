@@ -22,3 +22,15 @@ describe("Components Matches Test", () => {
     expect(quote).toMatchSnapshot();
   });
 });
+
+describe("User interaction simulation test", () => {
+  it("Home route test", () => {
+    render(<Home />);
+  });
+  it("Quote route test", () => {
+    render(<Quote />);
+  });
+  it("Calculator route test", () => {
+    render(<Calculator />);
+  });
+});
