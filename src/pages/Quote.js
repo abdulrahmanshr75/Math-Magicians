@@ -1,6 +1,6 @@
 import React from "react";
 
-const Qoute = () => {
+const Quote = () => {
   return (
     <div className="container-homepage">
       <h1>
@@ -12,4 +12,4 @@ const Qoute = () => {
   );
 };
 
-export default Qoute;
+export default Quote;
